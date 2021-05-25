@@ -1,2 +1,3 @@
 # QAEveris
-Teste Técnico
+
+***Resoluação dos Exercícios Técnicos****
