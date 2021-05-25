@@ -1,3 +1,3 @@
 # QAEveris
 
-***Resoluação dos Exercícios Técnicos****
+**Resolução dos Exercícios Técnicos**
