@@ -21,9 +21,9 @@ Requeriments:
 Observação:
  - Os exercicíos 1 e 2 foram desenvolvidos no mesmo projeto.
 
-### Exercício 1 e 2 - pasta "CaseAutomation"
+Exercício 1 e 2 - pasta "CaseAutomation"
 
-### Exercício 3 - pasta "automacaoAPI"
+Exercício 3 - pasta "automacaoAPI"
 
  ### Estrutura ### 
  - src\test\java\br\com\everis\automacaoAPI- contém o arquivo TestQaEVERIS.java que possui o código fonte
