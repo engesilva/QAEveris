@@ -6,7 +6,7 @@ Automatização utilizando Selenium Web Driver, JUnit, Maven, Cucumber e RestAss
 
 ### Exercícios
 
-1.Escrever um cenário de testes que valida os valores no carrinho de um produto no website: My Store (automationpractice.com) (Se a automação for feito utilizando a
+1. Escrever um cenário de testes que valida os valores no carrinho de um produto no website: My Store (automationpractice.com) (Se a automação for feito utilizando a
 linguagem gherkin, não é necessário fazer esse exercício)
 
 2. Automatizar um fluxo que valida o valor total da compra na tela 01.Summary
@@ -23,9 +23,24 @@ Observação:
 
 Exercício 1 e 2 - pasta "CaseAutomation"
 
+Estrutura
+src/main/java/
+ - `Generics/` - Métodos genericos.
+ - `Pages/` - Componentes/telas/objetos mapeados do teste.
+
+ src/test/java/
+ - `Fearure/` - Features do cucumber (Exercício 1)
+ - `Runs/` - Arquivos para execuções de teste.
+ - `Step/` - Steps para da feature do cucumber.
+
+Execução
+ - JUnit: Arquivo RunUnit.java
+ - Cucumber: Arquivo RunCucumber
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Exercício 3 - pasta "automacaoAPI"
 
- ***Estrutura***
+Estrutura
  - src\test\java\br\com\everis\automacaoAPI- contém o arquivo TestQaEVERIS.java que possui o código fonte
 
 
