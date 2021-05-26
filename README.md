@@ -29,7 +29,7 @@ src/main/java/
  - `Pages/` - Componentes/telas/objetos mapeados do teste.
 
  src/test/java/
- - `Fearure/` - Features do cucumber (Exercício 1)
+ - `Feature/` - Features do cucumber (Exercício 1)
  - `Runs/` - Arquivos para execuções de teste.
  - `Step/` - Steps para da feature do cucumber.
 
